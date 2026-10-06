@@ -1,0 +1,1 @@
+import{t as e}from"./INDEX-BIP_O39G-2026-10-04.JS";import{t}from"./STUDIO-CJVVG9M5-2026-10-04.JS";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};

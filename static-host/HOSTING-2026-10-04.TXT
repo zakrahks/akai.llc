@@ -1,0 +1,5 @@
+Nerbous static site
+
+New files end with -2026-10-04 before the extension.
+Delete every file that does not have that date.
+The page is INDEX-2026-10-04.HTML.

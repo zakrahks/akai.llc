@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AK Ai LLC",
+      "hasCanvas": true,
+      "bodyTextLen": 760,
+      "bodyTextHash": "865ff0e42352e2e132de6a9425e2334e83e9d0bf91612ae42a102a969ee9cfc0",
+      "bodyTextPrefix": "AK Ai Stage Packs Shelf NOT FOR SALE AK Ai LLC HOLDING DESK · CO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-desktop.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AK Ai LLC",
+      "hasCanvas": true,
+      "bodyTextLen": 742,
+      "bodyTextHash": "1a79f7443b78eb3acd121fd102ca01f5be4a047cbe53b433cbe7d22267f03a60",
+      "bodyTextPrefix": "AK Ai NOT FOR SALE AK Ai LLC HOLDING DESK · CONCEPT ONLY HOODIE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-desktop-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-desktop.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

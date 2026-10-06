@@ -1,0 +1,3 @@
+NERBOUS-STATIC 2026-10-04
+Every filename ends with this date. Delete files that do not.
+Open INDEX-2026-10-04.HTML if the folder address does not load.

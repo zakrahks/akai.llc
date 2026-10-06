@@ -1,0 +1,1 @@
+import{t as e}from"./STUDIO-CJVVG9M5-2026-10-04.JS";var t=e;export{t as component};

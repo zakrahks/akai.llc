@@ -1,0 +1,10 @@
+DirectoryIndex INDEX-2026-10-04.HTML
+AddType audio/mp4 .M4A
+AddType video/mp4 .MP4
+AddType application/javascript .JS
+AddType text/css .CSS
+<IfModule mod_headers.c>
+  <Files "INDEX-2026-10-04.HTML">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </Files>
+</IfModule>

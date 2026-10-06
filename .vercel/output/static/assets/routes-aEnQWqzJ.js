@@ -1,0 +1,1 @@
+import{t as e}from"./index-BIP_O39G.js";import{t}from"./studio-CJVvG9m5.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
